@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v6.37.6 (2026-02-27)
+
+### Fix
+
+* fix: add gemma 3 12b entries for neuronpedia (#655)
+
+* feat: add neuronpedia entries in pretrained_saes
+
+* fix: add neuronpedia entries for 27b-it transcoders
+
+* fix: add gemma 3 12b entries for neuronpedia ([`468b9cc`](https://github.com/decoderesearch/SAELens/commit/468b9cc89551d3677b5f1fc0ee52c06cf8cf36df))
+
 ## v6.37.5 (2026-02-27)
 
 ### Chore
